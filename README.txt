@@ -2,12 +2,15 @@ SKIP INTRO MOD FOR PHOENIX POINT
 This is a simple mod to make the game load as fast as possible.
 Skips intro logos and video by default. It is also possible to skip landing sequences before tactical missions (Optional).
 
-Compatible with TFTW and any other mod except Super Mod Plus - 80 Mods in 1 by Dtony.
-You don't need this mod if you're using Super Mod Plus - 80 Mods in 1 by Dtony.
-All contents of this mod are included in Super Mod Plus - 80 Mods in 1 by Dtony.
+Compatible with any other mod.
+
+You don't need this mod if you're using
+- Super Mod Plus - 80 Mods in 1 by Dtony
+- Terror from the Void by Phoenix Rising Mod team
+All contents of this mod are included in mods listed above.
 
 Code is taken from:
-- Super Mod Plus - 80 Mods in 1 by Dtony.
+- Super Mod Plus - 80 Mods in 1 by Dtony
 - Various Adjustments Mod for Modnix by Mad2342
 
 All credits to Mad2342 and Dtony.
