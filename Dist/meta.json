@@ -1,0 +1,24 @@
+{
+  "ID": "VoidSmasher.SkipIntro",
+  "AssemblyName": "SkipIntro.dll",
+  "Author": [
+    {
+      "Key": "English",
+      "Value": "Void Smasher"
+    }
+  ],
+  "Version": "1.0",
+  "Name": [
+    {
+      "Key": "English",
+      "Value": "Skip Intro"
+    }
+  ],
+  "Description": [
+    {
+      "Key": "English",
+      "Value": "Skips intro logos and video by default. It is also possible to skip landing sequences before tactical missions (see MOD SETTINGS)."
+    }
+  ],
+  "Dependencies": []
+}
